@@ -5,3 +5,5 @@ MultiModalDocSystem/
 frontend/MultiModalDocSystem/node_modules
 
 frontend/MultiModalDocSystem/.vscode
+
+backend/__pycache__
