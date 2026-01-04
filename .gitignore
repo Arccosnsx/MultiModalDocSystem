@@ -1,0 +1,7 @@
+.venv/
+
+MultiModalDocSystem/
+
+frontend/MultiModalDocSystem/node_modules
+
+frontend/MultiModalDocSystem/.vscode
